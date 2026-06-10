@@ -37,13 +37,13 @@ Utilisateur (navigateur)
 
         |
 
-        |-- RDP --> Windows 10      (192.168.50.130)
+        |-- RDP --> Windows 10   
 
-        |-- VNC --> Debian GUI      (192.168.50.129)
+        |-- VNC --> Debian GUI      
 
-        |-- SSH --> Debian CLI      (192.168.50.128)
+        |-- SSH --> Debian CLI      
 
-Bastion : 192.168.50.132 (NAT + Host-only)
+Bastion : (NAT + Host-only)
 
 
 Contenu du dépôt
